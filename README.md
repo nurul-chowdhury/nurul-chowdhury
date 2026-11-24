@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Nurul 👋
 
-<!--
-**nurul-chowdhury/nurul-chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Business Analytics student at **The University of Texas at Dallas** and data analytics intern at the
+**Texas Department of State Health Services (DSHS)**. I like turning messy data into clear
+decisions.
 
-Here are some ideas to get you started:
+### 🔍 Featured work
+- **[Where should RSM host its next conference?](https://github.com/nurul-chowdhury/rsm-conference-location-analysis)**
+  Python cost model across 36 cities: Chicago saves $0.7M+ vs. the next-best option
+- **[Carpooler UTD](https://nurul-chowdhury.github.io/carpooler-utd/)**
+  Interactive carpool app demo with role-based trip states and accessibility seat holds
+- **[Star-Prime](https://github.com/nurul-chowdhury/Star-Prime)**
+  MySQL trouble-ticket system: 15 tables, stored procedures, triggers, SLA analytics ·
+  [video walkthrough](https://www.youtube.com/watch?v=xwNCO6V7xVU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+Python (pandas) · SQL / MySQL · R (dplyr) · Alteryx · Streamlit · Data visualization
+
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/nurul-chowdhury-ccp) · [Email](mailto:nurul.chowdhury@live.ca)
